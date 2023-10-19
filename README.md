@@ -1,6 +1,6 @@
 ## Hey, I'm Bruno Marcadella! 👋
 
-I'm 26 years old! Live in Porto Alegre/RS and a lover of technology since I was born.
+I'm 26 years old and live in Porto Alegre, Brazil. I have been a lover of technology since I was born.
 
 I'm a civil engineer 👷🏽‍♂️ graduated from UFRGS and now a full-stack student at Trybe 👨🏽‍💻💚
 
