@@ -1,8 +1,8 @@
-## Boas vindas ao meu perfil! 👋
+## Hey, I'm Bruno Marcadella! 👋
 
-Meu nome é Bruno Marcadella e tenho 26 anos! Atualmente moro em Porto Alegre/RS e sou um amante da tecnologia desde que me conheço por gente 😎
+I'm 26 years old! Live in Porto Alegre/RS and a lover of technology since I was born.
 
-Sou Engenheiro Civil 👷🏽‍♂️ formado pela UFRGS e estudante de desenvolvimento full-strack na Trybe 👨🏽‍💻💚
+I'm a civil engineer 👷🏽‍♂️ graduated from UFRGS and now a full-stack student at Trybe 👨🏽‍💻💚
 
 <br>
 
