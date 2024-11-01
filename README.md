@@ -1,35 +1,55 @@
-## Hey, I'm Bruno Marcadella! 👋
+# Oi! Eu sou o Bruno Marcadella 👋
 
-I'm 27 years old and live in Porto Alegre, Brazil. I have been a lover of technology since I was born.
+Sou Desenvolvedor Full Stack de Porto Alegre, RS, e fã de tecnologia desde sempre! Formado em Engenharia Civil pela UFRGS e, recentemente, em desenvolvimento web pela Trybe, onde me dediquei a mais de 1.500 horas de estudo intensivo. Hoje, meu foco está em **JavaScript, HTML, CSS, React com TypeScript, Node.js, MySQL, Java e Python**. Estou expandindo meus horizontes para a Inteligência Artificial e sempre buscando aprender mais.
 
-I'm a full-stack 👨🏽‍💻 developer by Trybe and a civil engineer 👷🏽‍♂️ graduated from UFRGS.
+### Um pouco mais sobre mim:
+- **Foco atual**: Ampliando conhecimentos em Inteligência Artificial 🤖.
+- **Valores e Soft Skills**: Organização e colaboração são essenciais para mim. Adoro ver as ideias ganharem vida em equipe e tudo bem organizado.
+- **Hobbies**: Futebol ⚽, viagens ✈️ e estar com os amigos 🍻!
+
+##
+
+#### Vamos nos conectar?
+
+<div> 
+  <a href="https://www.linkedin.com/in/brunomarcadella" target="_blank"><img height="40em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:bruno.marcadella@hotmail.com"><img height="40em" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
+</div>
+
+##
+
+#### Essas são as stacks que eu aprimoro a cada dia
+<div style="display: inline_block">
+  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
+  <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJs">
+  <img align="center" alt="Express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="ExpressJs">
+  <img align="center" alt="Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">  
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">  
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
+  <img align="center" alt="Redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
+  <img align="center" alt="Jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" title="Jest">
+  <img align="center" alt="Sequelize" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" title="Sequelize">
+  <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring">
+
+
+</div>
+
+##
 
 <br>
 
-<!-- GITHUB STATUS -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoMarcadella&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoMarcadella&layout=compact&langs_count=10&theme=dark"/>
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://github.com/brunoMarcadella">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoMarcadella&layout=compact&theme=dracula"/>
+  </a>
 
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-</div>
-
-<br>
-
-<!-- TECNOLOGIAS -->
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-</div>
-
-<!-- REDES SOCIAIS -->
-<div align="center">
-  <a href="www.linkedin.com/in/brunomarcadella" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto:bruno.marcadella@hotmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
+  <a href="https://github.com/brunoMarcadella">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=brunoMarcadella&show_icons=true&theme=dracula&rank_icon=github"/>
+  </a>
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=brunoMarcadella)
 </div>
